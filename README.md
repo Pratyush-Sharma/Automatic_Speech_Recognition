@@ -1,4 +1,4 @@
-#Automatic Speech Recognition
+# Automatic Speech Recognition
 
 -The data used is taken from VoxForge randomly .
 -This is a python approach towards achieving speaker verification using GMM on UBM . 
