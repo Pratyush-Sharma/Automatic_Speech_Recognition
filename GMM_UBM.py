@@ -5,8 +5,8 @@ import python_speech_features as mfcc
 #import model1
 #from model1 import models1
 
-import plot2
-from plot2 import plot_curve
+import plot
+from plot import plot_curve
 
 import glob
 
